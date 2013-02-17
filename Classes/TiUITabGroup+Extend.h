@@ -11,8 +11,8 @@
 
 @interface TiUITabGroup (TiUITabGroup_Extend)
 
-- (void)setCustomBackgroundColor_:(NSString *)color;
-- (void)setCustomBackgroundImage_:(NSString *)imageName;
+- (void)setCustomBackgroundColor_:(id)color;
+- (void)setCustomBackgroundImage_:(id)imageName;
 - (void)setCustomActiveIconColor_:(id)color;
 - (void)setCustomActiveIndicator_:(id)imageName;
 
