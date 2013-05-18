@@ -7,11 +7,11 @@ TiExtendTab module for iPhone
 
 ## Usage
 
-Show `example/app.js`
+See `example/app.js`
 
 ## Feature
 
-* Custom active tab indicator image  
+* Custom active tab indicator image
 * Custom active tab icon color
 * Custom tab background image
 * Custom tab background color (Same Ti.UI.TabGroup.tabsBackgroundColor property)
