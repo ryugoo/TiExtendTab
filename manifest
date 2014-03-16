@@ -2,12 +2,12 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 0.2
+version: 0.3
 apiversion: 2
 description: Titanium Extend Module for TiUITabGoup
 author: Ryutaro Miyashita
 license: MIT
-copyright: Copyright (c) 2013 by Ryutaro Miyashita
+copyright: Copyright (c) 2013-2014 by Ryutaro Miyashita
 
 
 # these should not be edited
@@ -15,4 +15,4 @@ name: TiExtendTab
 moduleid: net.imthinker.modules.tiextendtab
 guid: 78e1ef3e-5291-4c03-a24e-8d9613efd5ce
 platform: iphone
-minsdk: 3.1.0.GA
+minsdk: 3.1.3.GA
